@@ -1,0 +1,19 @@
+# ignore database url
+storageLink.txt
+
+# ignore sensitive data
+*.zip
+*.xlsx
+/data/
+
+# ignore test code
+test.py
+
+# ignore mac cache
+*.DS_Store
+
+/YOLOv8/venv_0/
+
+/YOLOv8/UECFOODPIXCOMPLETE/
+
+/YOLOv8/process/detect_data/
